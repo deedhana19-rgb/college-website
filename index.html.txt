@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ABC College</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>ABC College</h1>
+    <p>Education for a Better Future</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Courses</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+    <h2>Welcome to ABC College</h2>
+    <p>We provide quality education and career opportunities for students.</p>
+</section>
+
+<section>
+    <h2>About Us</h2>
+    <p>ABC College is dedicated to academic excellence and student success.</p>
+</section>
+
+<section>
+    <h2>Courses Offered</h2>
+    <ul>
+        <li>B.Sc Computer Science</li>
+        <li>BCA</li>
+        <li>B.Com</li>
+        <li>BBA</li>
+        <li>MCA</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>Email: info@abccollege.com</p>
+    <p>Phone: +91 9876543210</p>
+</section>
+
+<footer>
+    <p>© 2025 ABC College. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
